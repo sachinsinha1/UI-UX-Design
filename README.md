@@ -24,10 +24,10 @@
 
 ### UI Resource
 
-### 1. Colours & Gradients
+#### 1. Colours & Gradients
 - [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
 - [Hex Colour Info](https://hexcolorpedia.com)
-### 2. Fonts
+#### 2. Fonts
 - [Dafont](https://www.dafont.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [Font Brief](https://www.fontbrief.com)
