@@ -21,3 +21,18 @@
 - [Material Design](https://material.io/resources)
 - [Microsoft Windows](https://www.adobe.com/in/products/xd/features/ui-kits.html)
 - [Wireframe](https://www.behance.net/gallery/55462459/Wires-wireframe-kits-for-Adobe-XD)
+
+### UI Resource
+
+- Colours & Gradients
+- [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
+- [Hex Colour Info](https://hexcolorpedia.com)
+- Fonts
+- [Font Brief](https://www.fontbrief.com)
+- UI Design Patterns
+- [Pattern Monster](https://pattern.monster)
+- Stock Photography
+- [Unsplash](https://unsplash.com/)
+- [Pexels](https://www.pexels.com/)
+- 
+- [Find Screen Size](https://www.screensizes.app)
