@@ -16,7 +16,7 @@
 ](https://youtu.be/3rQ-eTmWah0?list=PLxGTz6B845jQzRe7r1nkKveGRNujX3f4d)
 - Envato Tuts+ [Adobe XD for Beginners | FREE COURSE](https://youtu.be/WEljsc2jorI)
 
-### UI Kits
+## UI Kits & Resource
 
 - [Material Design](https://material.io/resources)
 - [Microsoft Windows](https://www.adobe.com/in/products/xd/features/ui-kits.html)
