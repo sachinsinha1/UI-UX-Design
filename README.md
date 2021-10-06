@@ -1,4 +1,4 @@
-# UI & UX-Design
+# UI & UX-Design Resources
 
 ## YouTube Content
 - Google Career Certificates [Learn Job-Ready UX Design Skills | Google UX Design Certificate](https://www.youtube.com/c/GoogleCareerCertificates/playlists?view=50&shelf_id=6) Duration - 17 Hrs
