@@ -3,18 +3,18 @@
 ## YouTube Content
 - Google Career Certificates [Learn Job-Ready UX Design Skills | Google UX Design Certificate](https://www.youtube.com/c/GoogleCareerCertificates/playlists?view=50&shelf_id=6) Duration - 17 Hrs
 - Tech Education & Marketing [UX Design Course Tutorial for Beginners: User Experience Design Fundamentals
-](https://youtu.be/uL2ZB7XXIgg)
+](https://youtu.be/uL2ZB7XXIgg) Duration - 4 Hrs
 
 ### Figma
-- freeCodeCamp.org [Create a Design System with Figma - Full Course](https://youtu.be/RYDiDpW2VkM?list=PLxGTz6B845jQzRe7r1nkKveGRNujX3f4d)
-- DesignCourse [The Figma 2021 Crash Course by Example](https://youtu.be/Gu1so3pz4bA)
-- Envato Tuts+ [Introduction To Figma | FREE COURSE](https://youtu.be/g6rQFP9zCAM)
+- freeCodeCamp.org [Create a Design System with Figma - Full Course](https://youtu.be/RYDiDpW2VkM?list=PLxGTz6B845jQzRe7r1nkKveGRNujX3f4d) Duration - 7.5 Hrs
+- DesignCourse [The Figma 2021 Crash Course by Example](https://youtu.be/Gu1so3pz4bA) Duration - 1 Hrs
+- Envato Tuts+ [Introduction To Figma | FREE COURSE](https://youtu.be/g6rQFP9zCAM) Duration - 2 Hrs
 
 ### Adobe XD
-- Bring Your Own Laptop [Free Adobe XD Tutorial: User Experience Design Course with Adobe XD Course](https://youtu.be/68w2VwalD5w)
+- Bring Your Own Laptop [Free Adobe XD Tutorial: User Experience Design Course with Adobe XD Course](https://youtu.be/68w2VwalD5w) Duration - 4 Hrs
 - DesignCourse [Learn Adobe XD in 2021 by Example (Crash Course)
-](https://youtu.be/3rQ-eTmWah0?list=PLxGTz6B845jQzRe7r1nkKveGRNujX3f4d)
-- Envato Tuts+ [Adobe XD for Beginners | FREE COURSE](https://youtu.be/WEljsc2jorI)
+](https://youtu.be/3rQ-eTmWah0?list=PLxGTz6B845jQzRe7r1nkKveGRNujX3f4d) Duration - 2 Hrs
+- Envato Tuts+ [Adobe XD for Beginners | FREE COURSE](https://youtu.be/WEljsc2jorI) Duration - 2.5 Hrs
 
 ## UI Kits
 
