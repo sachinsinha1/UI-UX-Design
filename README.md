@@ -27,19 +27,19 @@
 <b> 1. Colours & Gradients </b>
 - [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
 - [Hex Colour Info](https://hexcolorpedia.com)
-#### 2. Fonts
+<b> 2. Fonts </b>
 - [Dafont](https://www.dafont.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [Font Brief](https://www.fontbrief.com)
-### 3. UI Design Patterns
+<b> 3. UI Design Patterns </b>
 - [Pattern Monster](https://pattern.monster)
-### 4. Stock Photography
+<b> 4. Stock Photography
 - [Unsplash](https://unsplash.com/)
 - [Pexels](https://www.pexels.com/)
-### 5.Icons
+<b> 5.Icons </b>
 - [Flaticon](https://www.flaticon.com/)
 - [Google Material Design Icons](https://github.com/google/material-design-icons/releases/tag/1.0.0)
 - [Line Icons](https://dribbble.com/shots/16308572-6000-Free-Icons-Vuesax-Edited-Ver)
 - [NounProject](https://thenounproject.com/)
-### 6. Tools
+<b> 6. Tools </b>
 - [Find Screen Size](https://www.screensizes.app)
