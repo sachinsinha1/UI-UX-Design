@@ -24,7 +24,7 @@
 
 ### UI Resource
 
-#### 1. Colours & Gradients
+<b> 1. Colours & Gradients </b>
 - [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
 - [Hex Colour Info](https://hexcolorpedia.com)
 #### 2. Fonts
