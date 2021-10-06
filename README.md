@@ -24,15 +24,22 @@
 
 ### UI Resource
 
-- Colours & Gradients
+1. Colours & Gradients
 - [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
 - [Hex Colour Info](https://hexcolorpedia.com)
-- Fonts
+2. Fonts
+- [Dafont](https://www.dafont.com/)
+- [Google Fonts](https://fonts.google.com/)
 - [Font Brief](https://www.fontbrief.com)
-- UI Design Patterns
+4. UI Design Patterns
 - [Pattern Monster](https://pattern.monster)
-- Stock Photography
+5. Stock Photography
 - [Unsplash](https://unsplash.com/)
 - [Pexels](https://www.pexels.com/)
-- 
+6.Icons
+- [Flaticon](https://www.flaticon.com/)
+- [Google Material Design Icons](https://github.com/google/material-design-icons/releases/tag/1.0.0)
+- [Line Icons](https://dribbble.com/shots/16308572-6000-Free-Icons-Vuesax-Edited-Ver)
+- [NounProject](https://thenounproject.com/)
+7. Tools
 - [Find Screen Size](https://www.screensizes.app)
