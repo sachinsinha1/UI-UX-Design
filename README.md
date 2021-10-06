@@ -20,7 +20,7 @@
 - DesignCours [Designing & Building a Personal Portfolio from SCRATCH!](https://youtu.be/9iUJJHEIpls) Duration - 2 Hrs
 - DesignCours [From Prototype UI Design to HTML, CSS & JS Tutorial](https://youtu.be/GTyMUjhA-o4) Duration - 40 Mins
 
-## Other Tools (Adobe Photoshop | Adobe Illustrator)
+### Other Tools (Adobe Photoshop | Adobe Illustrator)
 - Envato Tuts+ [Photoshop for Beginners | FREE COURSE](https://youtu.be/IyR_uYsRdPs)
 - Envato Tuts+ [Adobe Illustrator for Beginners | FREE COURSE](https://youtu.be/Ib8UBwu3yGA)
 
