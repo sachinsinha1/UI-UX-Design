@@ -2,6 +2,8 @@
 
 ## YouTube Content
 - Google Career Certificates [Learn Job-Ready UX Design Skills | Google UX Design Certificate](https://www.youtube.com/c/GoogleCareerCertificates/playlists?view=50&shelf_id=6)
+- Tech Education & Marketing [UX Design Course Tutorial for Beginners: User Experience Design Fundamentals
+](https://youtu.be/uL2ZB7XXIgg)
 ### Figma
 - freeCodeCamp.org [Create a Design System with Figma - Full Course](https://youtu.be/RYDiDpW2VkM?list=PLxGTz6B845jQzRe7r1nkKveGRNujX3f4d)
 ### Adobe XD
