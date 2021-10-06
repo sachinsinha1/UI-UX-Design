@@ -33,7 +33,7 @@
 - [Font Brief](https://www.fontbrief.com)
 <b> 3. UI Design Patterns </b>
 - [Pattern Monster](https://pattern.monster)
-<b> 4. Stock Photography
+<b> 4. Stock Photography </b>
 - [Unsplash](https://unsplash.com/)
 - [Pexels](https://www.pexels.com/)
 <b> 5.Icons </b>
