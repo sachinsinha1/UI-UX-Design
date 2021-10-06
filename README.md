@@ -21,8 +21,8 @@
 - DesignCours [From Prototype UI Design to HTML, CSS & JS Tutorial](https://youtu.be/GTyMUjhA-o4) Duration - 40 Mins
 
 ### Other Tools (Adobe Photoshop | Adobe Illustrator)
-- Envato Tuts+ [Photoshop for Beginners | FREE COURSE](https://youtu.be/IyR_uYsRdPs)
-- Envato Tuts+ [Adobe Illustrator for Beginners | FREE COURSE](https://youtu.be/Ib8UBwu3yGA)
+- Envato Tuts+ [Photoshop for Beginners | FREE COURSE](https://youtu.be/IyR_uYsRdPs) Duration - 3.4 Hrs
+- Envato Tuts+ [Adobe Illustrator for Beginners | FREE COURSE](https://youtu.be/Ib8UBwu3yGA) Duration - 3 Hrs
 
 ## UI Kits
 
