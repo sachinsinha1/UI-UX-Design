@@ -16,13 +16,13 @@
 ](https://youtu.be/3rQ-eTmWah0?list=PLxGTz6B845jQzRe7r1nkKveGRNujX3f4d)
 - Envato Tuts+ [Adobe XD for Beginners | FREE COURSE](https://youtu.be/WEljsc2jorI)
 
-## UI Kits & Resource
+## UI Kits
 
 - [Material Design](https://material.io/resources)
 - [Microsoft Windows](https://www.adobe.com/in/products/xd/features/ui-kits.html)
 - [Wireframe](https://www.behance.net/gallery/55462459/Wires-wireframe-kits-for-Adobe-XD)
 
-### UI Resource
+## UI Resource
 
 #### 1. Colours & Gradients
 - [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
