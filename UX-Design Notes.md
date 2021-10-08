@@ -63,9 +63,35 @@ UX designer are required to have good communication skills, as you may have to t
 
 ### Generalist designer
 A UX designer with a broad number of responsibility. Generalist designer have breadth of knowledge.
+<br>
+A generalist might be responsible for a combination of,
+- User research
+- Branding
+- User Flow
+- UX writing
+- Visual design
+- Prototyping
+- Producation design
+- Information architecture
+- Usablility testing
+
+<img height="246" width="467" src="https://raw.githubusercontent.com/sachinsinha1/UI-UX-Design/main/Generalist%20designer.jpg">
 
 ### Specialist designer
 A specialists dives deep into one particular UX design role, like interation , visual, or motion design. Specialist designer have depth of knowledge.
 
+<img height="250" width="350" src="https://raw.githubusercontent.com/sachinsinha1/UI-UX-Design/main/Specialist%20designer.jpg">
+
 ### T-shaped designer
 A T-shaped designer specializes in one kind of UX design and has a breadth of knowledge in other areas.
+
+<img height="344" width="430" src="https://raw.githubusercontent.com/sachinsinha1/UI-UX-Design/main/T-shaped%20designer.jpg">
+
+### Work in a cross-functional team
+Cross-functional team building an app for ordering food,
+- Product lead - decides the scope of the project
+- UX researcher - tries to understand user trust
+- Interaction designer - figures out the flow for ordering
+- Visual designer - thinks about how to make it easy for users to find allergen free foods in the product
+- Engineers - brings wireframe and prototypes to life
+- Program manager - ensure clear and timely communication across team
