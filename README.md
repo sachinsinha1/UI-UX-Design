@@ -7,6 +7,7 @@
 
 ### Figma
 - freeCodeCamp.org [Create a Design System with Figma - Full Course](https://youtu.be/RYDiDpW2VkM?list=PLxGTz6B845jQzRe7r1nkKveGRNujX3f4d) Duration - 7.5 Hrs
+- Tutorial Tim [How to Build a Design System in Figma - Playlist](https://www.youtube.com/playlist?list=PLtoBUYdmfrDHkEbJ7d8lQ-Se0j9dwYJMQ) Duration - 7.5 Hrs
 - DesignCourse [The Figma 2021 Crash Course by Example](https://youtu.be/Gu1so3pz4bA) Duration - 1 Hr
 - Envato Tuts+ [Introduction To Figma | FREE COURSE](https://youtu.be/g6rQFP9zCAM) Duration - 2 Hrs
 
