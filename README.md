@@ -1,6 +1,6 @@
 # UI & UX-Design Resources
 
-## UX-Design Notes
+## [UX-Design Notes](https://github.com/sachinsinha1/UI-UX-Design/blob/main/UX-Design%20Notes.md)
 
 ## YouTube Content
 - Google Career Certificates [Learn Job-Ready UX Design Skills | Google UX Design Certificate](https://www.youtube.com/c/GoogleCareerCertificates/playlists?view=50&shelf_id=6) Duration - 17 Hrs
