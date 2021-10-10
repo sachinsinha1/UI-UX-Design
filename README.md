@@ -1,5 +1,7 @@
 # UI & UX-Design Resources
 
+## UX-Design Notes
+
 ## YouTube Content
 - Google Career Certificates [Learn Job-Ready UX Design Skills | Google UX Design Certificate](https://www.youtube.com/c/GoogleCareerCertificates/playlists?view=50&shelf_id=6) Duration - 17 Hrs
 - Tech Education & Marketing [UX Design Course Tutorial for Beginners: User Experience Design Fundamentals
