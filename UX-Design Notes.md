@@ -63,6 +63,17 @@ UX designer are required to have good communication skills, as you may have to t
 
 ### Generalist designer
 A UX designer with a broad number of responsibility. Generalist designer have breadth of knowledge.
+<br>
+A generalist might be responsible for a combination of,
+- User research
+- Branding
+- User Flow
+- UX writing
+- Visual design
+- Prototyping
+- Producation design
+- Information architecture
+- Usablility testing
 
 ### Specialist designer
 A specialists dives deep into one particular UX design role, like interation , visual, or motion design. Specialist designer have depth of knowledge.
