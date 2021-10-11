@@ -46,3 +46,6 @@ Empathy - The ability to understand someone else feeling or thoughts in a situat
 
 ### Research
 Understand audiences and learn about their background, demographics, motivations, painpoints, emotions and life goals.
+
+### Wireframe
+
