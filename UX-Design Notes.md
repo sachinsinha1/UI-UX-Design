@@ -58,3 +58,14 @@ The framwork of a website or how it's orgransized, categorized, and structure.
 
 ### Communicating effective
 UX designer are required to have good communication skills, as you may have to talk to client, team and write a mail or pitch an idea.
+
+## UX Generalists, specialists, and T-shaped designers
+
+### Generalist designer
+A UX designer with a broad number of responsibility. Generalist designer have breadth of knowledge.
+
+### Specialist designer
+A specialists dives deep into one particular UX design role, like interation , visual, or motion design. Specialist designer have depth of knowledge.
+
+### T-shaped designer
+A T-shaped designer specializes in one kind of UX design and has a breadth of knowledge in other areas.
