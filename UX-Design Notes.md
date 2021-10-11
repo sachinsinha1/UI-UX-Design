@@ -25,7 +25,7 @@ Useful - A useful product is which helps you and solve your problems.
 
 Empathy - The ability to understand someone else feeling or thoughts in a situation.
 
-### Types of UX Designer-
+## Types of UX Designer-
 - Interaction designer
 - Visual designer
 - Motion designer
@@ -36,4 +36,13 @@ Empathy - The ability to understand someone else feeling or thoughts in a situat
 - UX Engineers
 - UX Program manager
 
-### 
+## Responsibilites of entry-level UX designers
+
+- Researching
+- Wireframing
+- Prototyping
+- Creating Information architecture
+- Communicating effectively
+
+### Research
+Understand audiences and learn about their background, demographics, motivations, painpoints, emotions and life goals.
