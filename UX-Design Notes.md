@@ -48,4 +48,8 @@ Empathy - The ability to understand someone else feeling or thoughts in a situat
 Understand audiences and learn about their background, demographics, motivations, painpoints, emotions and life goals.
 
 ### Wireframe
+A wireframe is an outline or a sketch of a product or a screen.
+
+### Prototyping
+An early model of a product that demonstrates functionality.
 
