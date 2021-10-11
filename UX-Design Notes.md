@@ -84,3 +84,5 @@ A specialists dives deep into one particular UX design role, like interation , v
 
 ### T-shaped designer
 A T-shaped designer specializes in one kind of UX design and has a breadth of knowledge in other areas.
+
+<img height="344" width="430" src="https://raw.githubusercontent.com/sachinsinha1/UI-UX-Design/main/T-shaped%20designer.jpg">
