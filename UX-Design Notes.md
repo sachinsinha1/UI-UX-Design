@@ -80,5 +80,7 @@ A generalist might be responsible for a combination of,
 ### Specialist designer
 A specialists dives deep into one particular UX design role, like interation , visual, or motion design. Specialist designer have depth of knowledge.
 
+<img height="250" width="350" src="https://raw.githubusercontent.com/sachinsinha1/UI-UX-Design/main/Specialist%20designer.jpg">
+
 ### T-shaped designer
 A T-shaped designer specializes in one kind of UX design and has a breadth of knowledge in other areas.
