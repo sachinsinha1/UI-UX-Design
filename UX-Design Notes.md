@@ -53,3 +53,8 @@ A wireframe is an outline or a sketch of a product or a screen.
 ### Prototyping
 An early model of a product that demonstrates functionality.
 
+### Information architecture
+The framwork of a website or how it's orgransized, categorized, and structure.
+
+### Communicating effective
+UX designer are required to have good communication skills, as you may have to talk to client, team and write a mail or pitch an idea.
