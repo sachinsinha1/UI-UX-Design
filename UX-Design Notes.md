@@ -86,3 +86,12 @@ A specialists dives deep into one particular UX design role, like interation , v
 A T-shaped designer specializes in one kind of UX design and has a breadth of knowledge in other areas.
 
 <img height="344" width="430" src="https://raw.githubusercontent.com/sachinsinha1/UI-UX-Design/main/T-shaped%20designer.jpg">
+
+### Work in a cross-functional team
+Cross-functional team building an app for ordering food,
+- Product lead - decides the scope of the project
+- UX researcher - tries to understand user trust
+- Interaction designer - figures out the flow for ordering
+- Visual designer - thinks about how to make it easy for users to find allergen free foods in the product
+- Engineers - brings wireframe and prototypes to life
+- Program manager - ensure clear and timely communication across team
