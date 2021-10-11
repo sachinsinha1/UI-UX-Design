@@ -75,6 +75,8 @@ A generalist might be responsible for a combination of,
 - Information architecture
 - Usablility testing
 
+<img height="246" width="467" src="https://raw.githubusercontent.com/sachinsinha1/UI-UX-Design/main/Generalist%20designer.jpg">
+
 ### Specialist designer
 A specialists dives deep into one particular UX design role, like interation , visual, or motion design. Specialist designer have depth of knowledge.
 
