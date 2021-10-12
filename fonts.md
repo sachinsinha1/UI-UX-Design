@@ -1,6 +1,7 @@
 ## Fonts
 
 - [Nexa]()
+- [Poppins](https://fonts.google.com/specimen/Poppins#standard-styles)
 - [Code Next](https://www.fontfabric.com/fonts/code-next/)
 - [League Gothic](https://www.fontsquirrel.com/fonts/league-gothic)
 - [Modum](https://thenorthernblock.co.uk/index)
