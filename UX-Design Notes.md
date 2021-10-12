@@ -101,3 +101,8 @@ Cross-functional team building an app for ordering food,
 ### User - Any person who uses a product
 ### End User - The specific audiance a UX designer creates something for
 ### User Experience - How a person, the user, feel about interacting with, or experiencing, a product
+### Goals of a good user experience
+- Is the product easy to use ?
+- Is the product equitable ?
+- Does the product delight the user ?
+- Does it solves the user's problem ?
