@@ -96,6 +96,8 @@ Cross-functional team building an app for ordering food,
 - Engineers - brings wireframe and prototypes to life
 - Program manager - ensure clear and timely communication across team
 
+## Define the user, end user, and user experience
+
 ### User - Any person who uses a product
 ### End User - The specific audiance a UX designer creates something for
 ### User Experience - How a person, the user, feel about interacting with, or experiencing, a product
