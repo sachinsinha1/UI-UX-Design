@@ -95,3 +95,7 @@ Cross-functional team building an app for ordering food,
 - Visual designer - thinks about how to make it easy for users to find allergen free foods in the product
 - Engineers - brings wireframe and prototypes to life
 - Program manager - ensure clear and timely communication across team
+
+### User - Any person who uses a product
+### End User - The specific audiance a UX designer creates something for
+### User Experience - How a person, the user, feel about interacting with, or experiencing, a product
