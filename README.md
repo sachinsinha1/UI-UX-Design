@@ -42,6 +42,7 @@
 - [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
 - [Hex Colour Info](https://hexcolorpedia.com)
 #### 2. Fonts
+- [My Fonts](https://github.com/sachinsinha1/UI-UX-Design/blob/main/fonts.md)
 - [Dafont](https://www.dafont.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [Font Brief](https://www.fontbrief.com)
