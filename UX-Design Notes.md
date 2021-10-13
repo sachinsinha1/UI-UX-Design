@@ -106,3 +106,14 @@ Cross-functional team building an app for ordering food,
 - Is the product equitable ?
 - Does the product delight the user ?
 - Does it solves the user's problem ?
+
+## Prioritize the user
+
+### Key frameworks in UX design
+
+### User Center Desing
+Puts the users front & Center
+The user center design process have four steps -
+Understand -> Specify -> Design -> Evaluate
+
+<img height="285" width="640" src="https://raw.githubusercontent.com/sachinsinha1/UI-UX-Design/main/User%20Center%20Design.png">
