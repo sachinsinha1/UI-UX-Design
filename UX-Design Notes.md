@@ -114,6 +114,51 @@ Cross-functional team building an app for ordering food,
 ### User Center Desing
 Puts the users front & Center
 The user center design process have four steps -
+<br>
 Understand -> Specify -> Design -> Evaluate
 
 <img height="285" width="640" src="https://raw.githubusercontent.com/sachinsinha1/UI-UX-Design/main/User%20Center%20Design.png">
+
+### Framework
+Create the basic structure that focuses and supports the problem your're tyring to solve, framework is outline of project.
+### Two design framework
+- Five elements framework
+- Design thinking framework
+
+### Five elements of UX Design
+
+Steps a designer takes to turn an idea into  a working product.
+<br>
+This framework consists of five elements,
+<br>
+- Surface
+- Skeleton
+- Structure
+- Scope
+- Strategy
+<br>
+each layer is dependent on the on below it.
+
+<img height="360" width="640" src="https://raw.githubusercontent.com/sachinsinha1/UI-UX-Design/main/Five%20elements%20framework.png">
+
+### Design Thinking framework
+
+A way to create solutions that address a real user problem and are functional and affordable.
+<br>
+Design thinking have five actionable steps -
+<br>
+Empathize - Define - Ideate - Prototype - Test
+
+- Empathize - which is about discovering what end users really need.
+- Define - to define the problem by creating a clear problem statement.
+- Ideate - brainstorm solutions, aim to come up with as many idea as possible.
+- Prototype - A prototype is a scaled down version of a product that shows important functions.
+- Test - test the prototype with users and get the feedback about the product
+<img height="360" width="640" src="https://raw.githubusercontent.com/sachinsinha1/UI-UX-Design/main/Design%20thinking%20framework.png">
+
+Three most used framework in UX Design -
+- User centered design process
+- Five elements framework
+- Design thinking framework
+
+## Universal design, inclusive design, equity focused design
