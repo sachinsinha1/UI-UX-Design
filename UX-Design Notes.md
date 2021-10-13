@@ -202,3 +202,27 @@ Defines a disability as being caused by the way society is organized or how prod
 
 ### Equity focused design
 Thinking through all the aspects of a designed product and making sure the product is both accessible and fair to all genders, races & abilities.
+<br>
+Plus, the designs need to specifically consider underrepresented and excluded groups.
+
+### Design for the Next Billion Users
+Issue faced by next billion users and impact designer.
+- Cost
+- Connectivity
+- Digital literacy
+- Literacy
+
+### Next Billion Users
+There are people around the world getting online for the first time, globally there are a billion people right now just starting to use the internet, these group people are Next Billion Users (NBU).
+
+### Responsive Web Design
+Allows a website to change automatically depending on the size of the device.
+
+### Assistive Technology (AT)
+Any product, equipment,and systems that enhance learning, working, and daily living for people with disabilities.
+<br>
+Various assistive technology
+- Color modification
+- Voice control
+- Screen reader
+- Alternative text
