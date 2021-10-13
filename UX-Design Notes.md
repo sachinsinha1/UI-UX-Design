@@ -98,9 +98,12 @@ Cross-functional team building an app for ordering food,
 
 ## Define the user, end user, and user experience
 
-### User - Any person who uses a product
-### End User - The specific audiance a UX designer creates something for
-### User Experience - How a person, the user, feel about interacting with, or experiencing, a product
+### User
+Any person who uses a product
+### End User
+The specific audiance a UX designer creates something for
+### User Experience
+How a person, the user, feel about interacting with, or experiencing, a product
 ### Goals of a good user experience
 - Is the product easy to use ?
 - Is the product equitable ?
@@ -162,9 +165,11 @@ Three most used framework in UX Design -
 
 ## Universal design, inclusive design, equity focused design
 
-### Universal design - The process of creating one product for users with the widest range of abilities and in the widest range of situations.
+### Universal design
+The process of creating one product for users with the widest range of abilities and in the widest range of situations.
 
-### Inclusive design - Making design choices that takes into accounts personal identifiers like,
+### Inclusive design
+Making design choices that takes into accounts personal identifiers like,
 - Ability
 - Race
 - Economic status
