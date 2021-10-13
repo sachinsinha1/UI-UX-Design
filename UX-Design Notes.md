@@ -161,3 +161,39 @@ Three most used framework in UX Design -
 - Design thinking framework
 
 ## Universal design, inclusive design, equity focused design
+
+### Universal design - The process of creating one product for users with the widest range of abilities and in the widest range of situations.
+
+### Inclusive design - Making design choices that takes into accounts personal identifiers like,
+- Ability
+- Race
+- Economic status
+- Language 
+- Age
+- Gender
+
+Universal design "one size fits all"
+<br>
+Inclusive design "solve for one, extend to many"
+
+### Accessiblity
+The design of products, devices, services, or environments for people with disabilities.
+<br>
+a11y - accessibility ( a to y 11 words)
+
+### Equity focused design
+Designing for groups that have been historically underrepresented or ignored when building products.
+- Equality - Providing same amount of opportunity and support.
+- Equity - Providing diferent levels of opportunity and supports for each person in order to achieve fair outcome.
+
+### Accessiblity categories
+- Motor
+- Dead or hard of hearing
+- Cognitive
+- Vision
+
+### Social model of disability
+Defines a disability as being caused by the way society is organized or how porducts are designed, rather than a person's ability or difference.
+
+### Equity focused design
+Thinking through all the aspects of a designed product and making sure the product is both accessible nad fair to all genders, races & abilities.
