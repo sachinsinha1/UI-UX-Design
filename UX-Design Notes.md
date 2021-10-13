@@ -138,7 +138,6 @@ This framework consists of five elements,
 - Strategy
 <br>
 each layer is dependent on the on below it.
-
 <img height="360" width="640" src="https://raw.githubusercontent.com/sachinsinha1/UI-UX-Design/main/Five%20elements%20framework.png">
 
 ### Design Thinking framework
