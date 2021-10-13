@@ -15,11 +15,11 @@ A good, service, or feature, It might be a physical product, like a video game c
 - Enjoyable
 - Useful
 
-Usable - Increasing usablility, making product easy to use
+Usable - Increasing usability, making product easy to use
 
-Equitable - Considering the unique needs of many different people is important work to thinking about equitable desing is key. Being equitable means your design are useful and marketable to people with diverse ability and background.
+Equitable - Considering the unique needs of many different people is important work to thinking about equitable design is key. Being equitable means your design are useful and marketable to people with diverse ability and background.
 
-Enjoyable - An enjoyable product is when user have good experience and get connection with a product, for eg when user order a food and saw food reviews and images while ordering the food, user gets a varity and choice to order and helps him ordering the food which makes him haooy to use the product.
+Enjoyable - An enjoyable product is when user have good experience and get connection with a product, for eg when user order a food and saw food reviews and images while ordering the food, user gets a variety and choice to order and helps him ordering the food which makes him happy to use the product.
 
 Useful - A useful product is which helps you and solve your problems.
 
@@ -36,7 +36,7 @@ Empathy - The ability to understand someone else feeling or thoughts in a situat
 - UX Engineers
 - UX Program manager
 
-## Responsibilites of entry-level UX designers
+## Responsibilities of entry-level UX designers
 
 - Researching
 - Wireframing
@@ -45,7 +45,7 @@ Empathy - The ability to understand someone else feeling or thoughts in a situat
 - Communicating effectively
 
 ### Research
-Understand audiences and learn about their background, demographics, motivations, painpoints, emotions and life goals.
+Understand audiences and learn about their background, demographics, motivations, pain points, emotions and life goals.
 
 ### Wireframe
 A wireframe is an outline or a sketch of a product or a screen.
@@ -54,7 +54,7 @@ A wireframe is an outline or a sketch of a product or a screen.
 An early model of a product that demonstrates functionality.
 
 ### Information architecture
-The framwork of a website or how it's orgransized, categorized, and structure.
+The framework of a website or how it's organized, categorized, and structure.
 
 ### Communicating effective
 UX designer are required to have good communication skills, as you may have to talk to client, team and write a mail or pitch an idea.
@@ -71,14 +71,14 @@ A generalist might be responsible for a combination of,
 - UX writing
 - Visual design
 - Prototyping
-- Producation design
+- Production design
 - Information architecture
-- Usablility testing
+- Usability testing
 
 <img height="246" width="467" src="https://raw.githubusercontent.com/sachinsinha1/UI-UX-Design/main/Generalist%20designer.jpg">
 
 ### Specialist designer
-A specialists dives deep into one particular UX design role, like interation , visual, or motion design. Specialist designer have depth of knowledge.
+A specialists dives deep into one particular UX design role, like interaction, visual, or motion design. Specialist designer have depth of knowledge.
 
 <img height="250" width="350" src="https://raw.githubusercontent.com/sachinsinha1/UI-UX-Design/main/Specialist%20designer.jpg">
 
@@ -101,20 +101,20 @@ Cross-functional team building an app for ordering food,
 ### User
 Any person who uses a product
 ### End User
-The specific audiance a UX designer creates something for
+The specific audience a UX designer creates something for
 ### User Experience
 How a person, the user, feel about interacting with, or experiencing, a product
 ### Goals of a good user experience
-- Is the product easy to use ?
-- Is the product equitable ?
-- Does the product delight the user ?
-- Does it solves the user's problem ?
+- Is the product easy to use?
+- Is the product equitable?
+- Does the product delight the user?
+- Does it solves the user's problem?
 
 ## Prioritize the user
 
 ### Key frameworks in UX design
 
-### User Center Desing
+### User centered design
 Puts the users front & Center
 The user center design process have four steps -
 <br>
@@ -123,14 +123,14 @@ Understand -> Specify -> Design -> Evaluate
 <img height="285" width="640" src="https://raw.githubusercontent.com/sachinsinha1/UI-UX-Design/main/User%20Center%20Design.png">
 
 ### Framework
-Create the basic structure that focuses and supports the problem your're tyring to solve, framework is outline of project.
+Create the basic structure that focuses and supports the problem you’re trying to solve, framework is outline of project.
 ### Two design framework
 - Five elements framework
 - Design thinking framework
 
 ### Five elements of UX Design
 
-Steps a designer takes to turn an idea into  a working product.
+Steps a designer takes to turn an idea into a working product.
 <br>
 This framework consists of five elements,
 <br>
@@ -181,7 +181,7 @@ Universal design "one size fits all"
 <br>
 Inclusive design "solve for one, extend to many"
 
-### Accessiblity
+### Accessibility
 The design of products, devices, services, or environments for people with disabilities.
 <br>
 a11y - accessibility ( a to y 11 words)
@@ -189,16 +189,16 @@ a11y - accessibility ( a to y 11 words)
 ### Equity focused design
 Designing for groups that have been historically underrepresented or ignored when building products.
 - Equality - Providing same amount of opportunity and support.
-- Equity - Providing diferent levels of opportunity and supports for each person in order to achieve fair outcome.
+- Equity - Providing different levels of opportunity and supports for each person in order to achieve fair outcome.
 
-### Accessiblity categories
+### Accessibility categories
 - Motor
 - Dead or hard of hearing
 - Cognitive
 - Vision
 
 ### Social model of disability
-Defines a disability as being caused by the way society is organized or how porducts are designed, rather than a person's ability or difference.
+Defines a disability as being caused by the way society is organized or how products are designed, rather than a person's ability or difference.
 
 ### Equity focused design
-Thinking through all the aspects of a designed product and making sure the product is both accessible nad fair to all genders, races & abilities.
+Thinking through all the aspects of a designed product and making sure the product is both accessible and fair to all genders, races & abilities.
